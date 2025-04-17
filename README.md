@@ -82,12 +82,12 @@
 ## 🚀 Let's Connect! 🚀
 
 <p align="center">
-  <a href="https://github.com/FlexiDriod">
+<!--   <a href="https://github.com/FlexiDriod">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/sudip-howlader/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
  <a href="https://flexidriod.github.io/Sudip-DevLabs.io/">
   <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=westernunion&logoColor=yellow" alt="Visit Website">
  </a>
