@@ -89,7 +89,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
  <a href="https://flexidriod.github.io/Sudip-DevLabs.io/">
-  <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=westernunion&logoColor=white" alt="Visit Website">
+  <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=westernunion&logoColor=yellow" alt="Visit Website">
  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
